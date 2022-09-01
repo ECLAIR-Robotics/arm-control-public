@@ -1,0 +1,6 @@
+.idea
+python-3.10.4-install.exe
+venv
+idle.*
+officer
+__pycache__
